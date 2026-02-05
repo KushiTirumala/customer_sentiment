@@ -12,7 +12,7 @@ This project analyzes customer reviews to predict sentiment (positive/negative).
 - Evaluate model using accuracy, confusion matrix, and classification report
 - Generate actionable insights from customer sentiment
 
-Results
+##Results
 
 Achieved 82% accuracy on the test set
 
